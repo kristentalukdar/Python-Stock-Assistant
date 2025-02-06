@@ -11,7 +11,7 @@ This project demonstrates the creation and use of an AI assistant powered by Ope
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/AkashSasikumar47/stock-transaction-assistant.git
+   
    cd stock-transaction-assistant
 2. **Install Dependencies**: Ensure you have Python installed, then install the required packages:
    ```bash
